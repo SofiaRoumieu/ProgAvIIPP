@@ -1,0 +1,9 @@
+header {
+    text-align: center;
+    background-color: green;
+}
+
+header > img {
+    height: 110px;
+    margin: 20px 0px 10px 0px;
+}
